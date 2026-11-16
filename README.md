@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumeya_Benhaddouche-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumeya-benhaddouche-b20141431)
 [![E-mail](https://img.shields.io/badge/E--mail-Me_contacter-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumeya.benhaddouche@gmail.com)
-[![Alternance](https://img.shields.io/badge/Alternance-16_mois_d%C3%A8s_novembre_2026-2E7D6B?style=for-the-badge)](#ce-que-je-recherche)
+[![Alternance](https://img.shields.io/badge/Alternance-16_mois_d%C3%A8s_janvier_2027-2E7D6B?style=for-the-badge)](#ce-que-je-recherche)
 
 </div>
 
@@ -102,7 +102,7 @@ Je consolide les fondamentaux pour comprendre ce que fait chaque ligne de code e
 
 | | |
 |---|---|
-| 🎓 **Ironhack** | Bootcamp Data Analyse avec IA, en alternance (novembre 2026) |
+| 🎓 **Ironhack** | Bootcamp Data Analyse avec IA, en alternance (janvier 2027) |
 | 💡 **DesCodeuses** | Bootcamp IA, 5 jours, projet d'équipe que j'ai coordonné (septembre 2026) |
 | 📷 **Photographe freelance** | Relation client, base clients sur Notion, facturation et comptabilité (depuis 2023) |
 | 📞 **Setter, Groupe Closers** | Qualification de prospects, suivi des conversations, reporting quotidien (2024) |
@@ -112,7 +112,7 @@ Je consolide les fondamentaux pour comprendre ce que fait chaque ligne de code e
 
 ## Ce que je recherche
 
-Une **alternance de 16 mois en data analyse** en Île-de-France : 11 semaines de formation intensive à partir de novembre 2026, puis 13 mois à temps plein en entreprise.
+Une **alternance de 16 mois en data analyse** en Île-de-France : 11 semaines de formation intensive à partir de janvier 2027, puis 13 mois à temps plein en entreprise.
 
 Ce que j'apporte : de la rigueur, l'habitude du reporting, une vraie écoute des besoins et la capacité à expliquer un résultat simplement.
 
